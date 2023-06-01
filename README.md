@@ -21,8 +21,12 @@ Success comes when you're in love with what you do.That's what I strive for. Int
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2839C3&background=F9DBD400&repeat=false&width=435&lines=Projects)](https://git.io/typing-svg)
 <li>
-Weather-app (REST API on Java Script,LocalStorage)<br>
+Weather-app (HTML,JS,CSS,AJAX(fetch),LocalStorage)<br>
 <a href="https://ekaterinavoronovich.github.io/Weather-forecast/">Link to code here</a>
+</li>
+<li>
+Website Shelter (HTML,JS (dynamic content (cards of pets) is built JS from JSON file),CSS,SCSS)<br>
+<a href="https://ekaterinavoronovich.github.io/Shelter/">Link to code here</a>
 </li>
 <li>
 Simple Calculator (Java Script)<br>
