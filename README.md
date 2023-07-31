@@ -29,8 +29,8 @@ Website Shelter (HTML,JS (dynamic content (cards of pets) is built JS from JSON 
 <a href="https://ekaterinavoronovich.github.io/Shelter/">Link to code here</a>
 </li>
 <li>
-Simple Calculator (Java Script)<br>
-<a href="https://ekaterinavoronovich.github.io/Simple-Calculator/">Link to code here</a>
+Rock-Paper-Scissors game (Java Script,SCSS)<br>
+<a href="https://ekaterinavoronovich.github.io/Rock-Paper-Scissors/src/index.html/">Link to code here</a>
 </li>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2839C3&background=F9DBD400&repeat=false&width=435&lines=CV)](https://git.io/typing-svg)
