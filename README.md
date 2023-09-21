@@ -36,6 +36,10 @@ Rock-Paper-Scissors game (Java Script,SCSS)<br>
 Header website Travel X ( Used : Gulp,SCSS,ES6 module,webpack, Swiper)<br>
 <a  href="http://64ff6825a6f3c4476407674e--beautiful-taffy-c20335.netlify.app/#!">Link to code here</a>
 </li>
+<li>
+Website LoftHouse ( Used : Gulp,SCSS,ES6 module,webpack,API Yandex map)<br>
+<a  href="https://extraordinary-zabaione-d91884.netlify.app">Link to code here</a>
+</li>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2839C3&background=F9DBD400&repeat=false&width=435&lines=CV)](https://git.io/typing-svg)
 <li>
