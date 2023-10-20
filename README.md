@@ -38,7 +38,7 @@ Header website Travel X ( Used : Gulp,SCSS,ES6 module,webpack, Swiper)<br>
 </li>
 <li>
 Website LoftHouse ( Used : Gulp,SCSS,ES6 module,webpack,API Yandex map)<br>
-<a  href="https://extraordinary-zabaione-d91884.netlify.app">Link to code here</a>
+<a  href="https://stellar-kataifi-7197bd.netlify.app/">Deploy</a>
 </li>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2839C3&background=F9DBD400&repeat=false&width=435&lines=CV)](https://git.io/typing-svg)
